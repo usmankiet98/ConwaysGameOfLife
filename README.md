@@ -1,5 +1,5 @@
-#HCI 104497: Conway Game of Life - An OS course project#
-###PROJECT MEMBERS###
+# HCI 104497: Conway Game of Life - An OS course project #
+### PROJECT MEMBERS ###
 Student ID | Name
 ------------ | -------------
 **63669** | **SABAHAT KHAN**
